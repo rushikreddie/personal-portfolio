@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 160244918,
+      "name": "Expense Tracking System",
+      "createdAt": "2026-02-17T17:58:07Z",
+      "url": "https://github.com/rushikreddie/Expense-Management-System",
+      "description": "A modern expense management dashboard for recording daily transactions and generating category-wise financial insights.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+        "name": "Streamlit",
+        "iconifyClass": "logos-streamlit"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDORr6Ihg",
+      "name": "Credit Card Launch",
+      "createdAt": "2026-03-20T05:17:35Z",
+      "url": "https://github.com/rushikreddie/Data-Driven-Customer-Segmentation-for-Credit-Card-Launch",
+      "description": "An end-to-end business analytics pipeline featuring demographic segmentation, spending behavior analysis, and statistical validation of marketing performance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
